@@ -1,11 +1,12 @@
 ### Hello Everybody !!👋
 
 - 📌 I’m a fresher graduated from Lovely Professional University with a Bachelors in Computer Science Engineering
-- 📌 I have strong fundamentals in programming, problem-solving, and software development.
-- 📌 I am currently seeking opportunities as a Software Engineer.
-- 📌 Languages - Python, SQL, HTML, CSS, JavaScript, React Js, Tailwind CSS, Node.js, Express, Git/GitHub, MongoDB, Firebase
-- 📌 Libraries - Pandas, Numpy, Matplotlib, Seaborn, Scikit learn
-- 📌 Tools - VS Code, Postman, Figma, Notion, MS Office, Tableau, Canva, Google Workspace
+- 📌 I have strong fundamentals in data analytics, problem-solving, and business intelligence.
+- 📌 I am currently seeking opportunities in the Data and Analytics Field.
+- 📌 Languages - Python, SQL, R
+- 📌 Data Analysis Libraries -  Numpy, Pandas, Scikit learn
+- 📌 Data Visualization: Excel, Tableau, Power BI, Matplotlib, Seaborn
+- 📌 Other: Data Cleaning, Statistical Analysis, Big Data Analytics, Business Intelligence
 - 📌 Soft Skills - Problem-Solving, Communication, Leadership, Teamwork, Multitasking, Adaptability, Management
 
 
